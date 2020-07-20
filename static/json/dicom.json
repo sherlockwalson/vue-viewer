@@ -1,0 +1,13 @@
+{
+    "dicom": {
+        "patientName": "小狗",
+        "patientId": "123456",
+        "patientSex": "男",
+        "PatientNum": "110",
+        "dicoms": [
+            "http://localhost:8686/static/image/21D934DC",
+            "http://localhost:8686/static/image/A6BA52DF",
+            "http://localhost:8686/static/image/E80C3A9C"
+        ]
+    }
+}
